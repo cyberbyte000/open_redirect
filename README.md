@@ -1,2 +1,2 @@
 # open_redirect
-In this file we have open-redirect injuction point like parameters and bypass payloads 
+In this file we have open-redirect parameters list and web url with filter bypass payloads 
